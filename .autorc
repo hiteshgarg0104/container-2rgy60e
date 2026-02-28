@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "hiteshgarg0104",
+  "repo": "container-2rgy60e",
+  "name": "hiteshgarg0104",
+  "email": "hiteshgarg.0104@gmail.com",
+}
